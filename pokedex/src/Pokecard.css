@@ -1,0 +1,8 @@
+.Pokecard {
+    background-color: aliceblue;
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
